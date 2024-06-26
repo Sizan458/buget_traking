@@ -19,7 +19,7 @@ const Hero = () => {
         <div class="mt-8 flex flex-wrap justify-center gap-4">
           <Link
             class="block w-full rounded  bg-primary px-12 py-3 text-sm font-medium text-white shadow hover:bg-blue-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto"
-            href="'/sign-in"
+            href="/sign-up"
           >
             Get Started
           </Link>
