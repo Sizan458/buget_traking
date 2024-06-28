@@ -13,6 +13,7 @@
   "dependencies": {
     "@clerk/nextjs": "^5.1.6",
     "@neondatabase/serverless": "^0.9.3",
+    "@radix-ui/react-alert-dialog": "^1.1.1",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-slot": "^1.1.0",
     "class-variance-authority": "^0.7.0",
@@ -25,6 +26,7 @@
     "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18",
+    "recharts": "^2.12.7",
     "sonner": "^1.5.0",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7"
