@@ -26,7 +26,7 @@ if(result){
 }
   return (
     <div className="mt-3">
-       <h2 className='font-bold text-lg mb-3'>Lates Expenses</h2>
+       {/* <h2 className='font-bold text-lg mb-3'>Lates Expenses</h2> */}
       <Table>
         <TableHeader className=" bg-slate-200 font-bold ">
           <TableRow>

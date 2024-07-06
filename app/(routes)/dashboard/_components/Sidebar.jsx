@@ -40,7 +40,7 @@ const Sidebar = () => {
             </Link>
         ))}
       </div>
-     <div className='fixed bottom-10 p-5 flex items-center  gap-2 '>
+     <div className='fixed bottom-10 p-5 flex items-center  gap-2  '>
       <UserButton/>
       Profile
      </div>
